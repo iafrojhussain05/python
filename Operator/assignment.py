@@ -1,3 +1,6 @@
+#Assignment OPerator
+#types: = , += , -= , *= , /= , %= ,  
+
 a = 10 #Assign
 b = 20
 
