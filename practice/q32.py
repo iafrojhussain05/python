@@ -1,4 +1,4 @@
-# Write a program to find whether a given number is prime or not.
+# Write a program to find whether a given number is odd/even or not.
 
 num = int(input("Enter number : "))
 
